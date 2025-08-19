@@ -900,6 +900,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755604577563",
+      "title": "公司内部",
+      "icon": "FolderKanban",
+      "description": "公司内部资源导航",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
