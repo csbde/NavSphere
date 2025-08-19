@@ -104,7 +104,16 @@
       "icon": "FolderKanban",
       "description": "公司内部资源导航",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1755604605945",
+          "title": "代码管理系统",
+          "href": "https://git.zoogooo.com",
+          "description": "代码管理系统",
+          "icon": "https://git.zoogooo.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
