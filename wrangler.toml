@@ -1,4 +1,4 @@
-name = "ZGNAV"
+name = "zgnav"
 compatibility_date = "2025-08-19"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
