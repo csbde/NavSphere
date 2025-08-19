@@ -99,6 +99,15 @@
       "enabled": true
     },
     {
+      "id": "1755604577563",
+      "title": "公司内部",
+      "icon": "FolderKanban",
+      "description": "公司内部资源导航",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -900,15 +909,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1755604577563",
-      "title": "公司内部",
-      "icon": "FolderKanban",
-      "description": "公司内部资源导航",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
